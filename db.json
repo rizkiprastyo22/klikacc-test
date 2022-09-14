@@ -1,0 +1,40 @@
+{
+  "testimoni": [
+    {
+      "id": 1,
+      "testimoni": "Alhamdulillah, Klik ACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+      "nama": "Agung",
+      "usaha": "Petani Kelapa",
+      "dana": 25000000,
+      "waktu": 5,
+      "foto": "pak-agung.png"
+    },
+    {
+      "id": 2,
+      "testimoni": "Alhamdulillah, Klik ACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+      "nama": "Anggi",
+      "usaha": "Pedagang Ikan",
+      "dana": 15000000,
+      "waktu": 8,
+      "foto": "bu-anggi.png"
+    },
+    {
+      "id": 3,
+      "testimoni": "Alhamdulillah, Klik ACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+      "nama": "Made",
+      "usaha": "Pengrajin Serat Alam",
+      "dana": 35000000,
+      "waktu": 12,
+      "foto": "pak-made.png"
+    },
+    {
+      "id": 4,
+      "testimoni": "Alhamdulillah, Klik ACC memberikan saya kesempatan untuk mendapatkan dana agar saya dapat memulai pekerjaan saya bercocok tanam",
+      "nama": "Indah",
+      "usaha": "Pengusaha Tekstil",
+      "dana": 40000000,
+      "waktu": 30,
+      "foto": "bu-indah.png"
+    }
+  ]
+}
